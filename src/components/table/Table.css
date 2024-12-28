@@ -1,0 +1,20 @@
+.projects-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.table-header {
+  background-color: #007bff;
+  color: white;
+}
+
+.table-cell {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.table-body .table-row:nth-child(even) {
+  background-color: #f2f2f2;
+}
